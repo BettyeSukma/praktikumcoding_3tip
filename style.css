@@ -1,0 +1,74 @@
+body.bg {
+    background-color: #f3d8f3;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .card {
+    background-color: #3a34e0;
+    color: black;
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 500px;
+    margin: 60px auto;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+  
+  .login-card {
+    max-width: 350px;
+    text-align: center;
+  }
+  
+  h2, h3 {
+    margin-top: 0;
+    font-weight: bold;
+  }
+  
+  form input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: none;
+  }
+  
+  form button {
+    background-color: #607df9;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  nav {
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  nav a {
+    background-color: #aaf0f0;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 0 5px;
+    display: inline-block;
+    font-weight: bold;
+  }
+  
+  nav a.active {
+    background-color: #c5d326;
+  }
+  
+  .product-img {
+    width: 100%;
+    max-width: 250px;
+    display: block;
+    margin: 15px auto;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
